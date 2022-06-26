@@ -13,5 +13,11 @@ namespace test
             Assert.AreEqual(true, true);
         }
 
+        [TestMethod("testing does not work")]
+        public void test_2work()
+        {
+            Assert.AreEqual(true, false);
+        }
+
     }
 }
