@@ -1,0 +1,15 @@
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\bin\Debug\net6.0\dev.exe
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\bin\Debug\net6.0\dev.deps.json
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\bin\Debug\net6.0\dev.runtimeconfig.json
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\bin\Debug\net6.0\dev.dll
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\bin\Debug\net6.0\dev.pdb
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.csproj.AssemblyReference.cache
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.AssemblyInfoInputs.cache
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.AssemblyInfo.cs
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.csproj.CoreCompileInputs.cache
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.dll
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\refint\dev.dll
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.pdb
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\dev.genruntimeconfig.cache
+c:\Users\teiss\Documents\EPSI\I1\I1-TRIM2\CI CD automatic test\Bowling projet RENDU\grp2_bowling\dev\obj\Debug\net6.0\ref\dev.dll
